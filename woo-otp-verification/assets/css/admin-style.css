@@ -1,0 +1,62 @@
+.setting_form_1{
+    display: none;
+    margin-top: 25px;
+    background: white;    
+    padding: 10px 20px;
+}
+.setting_form_1 h3{
+    margin-bottom:30px;
+}
+.Fast2Sms{
+    display: none;
+}
+.Firebase_Setting{
+    display: none;
+}
+.setting_form_1 div label{
+    font-weight:600;
+}
+.custom_label{
+    display: block;
+    margin-bottom: 12px;
+}
+.setting_input_field{
+    width: 200px;
+    margin-left: 12px;
+}
+.setting_input_field_1{
+    width: 700px;
+    margin-left: 12px;
+}
+.setting_input_field_2{
+    width:250px
+}
+.api_gateway_div{
+    display: none;
+}
+.otp_switch,.api_gateway_div{
+    margin-top: 30px;    
+}
+.otp_switch label,.api_gateway_div label{
+    font-size:15px;
+    font-weight: 600;
+    margin-right: 10px;
+}
+#api_key_firebase{
+    margin-left:81px;
+}
+#authDomain{
+    margin-left:47px;
+}
+#projectid{
+    margin-left:67px;
+}
+#storage_bucket{
+    margin-left:36px;
+}
+#appId{
+    margin-left:84px;
+}
+#measurementId{
+    margin-left:26px;
+}

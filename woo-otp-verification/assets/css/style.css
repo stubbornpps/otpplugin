@@ -1,0 +1,6 @@
+#otp_field,#verify_otp{
+    display: none;
+}
+#resend_otp{
+    margin-left: 20px;
+}
